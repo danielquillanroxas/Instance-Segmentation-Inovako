@@ -22,11 +22,11 @@ This project involves the development and evaluation of a YOLOv8 instance segmen
 - Achieved a model performance that detects each of 5 untrained mango, kiwi, and orange images with at least 85% precision.
 - Evaluated the model using precision, recall, and F1-Score metrics.
 - Metrics:
-    Overall Precision (Box): 0.833
-    Overall Recall (Box): 0.921
-    Overall mAP@0.5 (Box): 0.896
-    Overall mAP@0.5:0.95 (Box): 0.796
-    Overall F1-Score (Box): 0.876
+    Overall Precision (Box): 0.833,
+    Overall Recall (Box): 0.921,
+    Overall mAP@0.5 (Box): 0.896,
+    Overall mAP@0.5:0.95 (Box): 0.796,
+    Overall F1-Score (Box): 0.876,
 
 
 ### 8. Video Demonstration
