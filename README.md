@@ -7,7 +7,7 @@ This project involves the development and evaluation of a YOLOv8 instance segmen
 
 ### 2. Labeling the Dataset
 - Used a labeling tool to segment the dataset.
-- Tools like [Roboflow](https://roboflow.com/) or [CVAT](https://cvat.org/) can be used for labeling.
+- [Roboflow](https://roboflow.com/) was used for labeling.
 
 ### 3. Data Augmentation
 - Applied data augmentation techniques using Roboflow to the labeled images to increase the variability and robustness of the dataset.
