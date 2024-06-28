@@ -29,7 +29,7 @@ This involves the development and evaluation of a YOLOv8 instance segmentation m
     Overall F1-Score (Box): 0.876,
 
 
-### 8. Video Demonstration
+### 6. Video Demonstration
 - Prepared a short desktop recording video with audio, demonstrating the model's predictions on the test images.
 - The video link: https://www.loom.com/share/156bedc70d1d4121a668513e9909a2f2?sid=0d4b66ee-573b-4712-92cc-555e38ba1fee
    
