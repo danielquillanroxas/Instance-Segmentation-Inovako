@@ -1,6 +1,6 @@
 # Instance Segmentation with Fruits - Inovako
 
-This project involves the development and evaluation of a YOLOv8 instance segmentation model for detecting mangoes, kiwis, and oranges. Below are the steps and key components of the project.
+This involves the development and evaluation of a YOLOv8 instance segmentation model for detecting mangoes, kiwis, and oranges. Below are the steps and key components of the project.
 
 ### 1. Creating the Dataset
 - Compiled a dataset consisting of 20 images each for mangoes, kiwis, and oranges randomly from the internet.
